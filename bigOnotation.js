@@ -3,7 +3,7 @@
     *It's imporatan to have a precise vocabulary to talk about how our code performs, So even if you're content with your solution to something
     it's helpful to be able to understand how it compares or how it performs compared to other.
     Useful for discussing trade-offs between different approches.
-    When you code slows down or crashes, idenfifying parts of the code that are inefficient can help us pain ponts in our apps
+    When you code slows down or crashes, identifying parts of the code that are inefficient can help us pain points in our apps
     It comes up in interviews!! Understand you code.
 */
 //TIME OUR CODE:Suppose we want to write a function that calculates the sum of all numbers from 1 up to (and including) some number n.
