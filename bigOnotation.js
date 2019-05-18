@@ -1,6 +1,6 @@
 /*Big O Notation is a system got generalizing code and talking about it and comparing code and it's performance to other pieces of code.
     We can have a numeric representation of the performance of code.
-    *It's imporatan to have a precise vocabulary to talk about how our code performs, So even if you're content with your solution to something
+    *It's important to have a precise vocabulary to talk about how our code performs, So even if you're content with your solution to something
     it's helpful to be able to understand how it compares or how it performs compared to other.
     Useful for discussing trade-offs between different approches.
     When you code slows down or crashes, idenfifying parts of the code that are inefficient can help us pain ponts in our apps
